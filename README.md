@@ -12,6 +12,6 @@ This Project requires just 2 additional dependencies:
     pip install plyer
 
 ## For running it everytime on startup:
-  Just go the 
+  Just go the (space)
   C:\Documents and Settings\All Users\Start Menu\Programs\Startup directory on windows 
   and paste the BatteryNot.py
